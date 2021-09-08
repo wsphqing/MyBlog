@@ -1,3 +1,5 @@
-### MyBlog
+### 个人博客
 
-用于记录个人笔记
+记录自己想分享的一些东西~
+
+1. [JS 类型判断](https://github.com/wsphqing/MyBlog/issues/2)
